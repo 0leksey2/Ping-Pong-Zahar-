@@ -1,2 +1,2 @@
 # Ping-Pong-Zahar-
-Ping-Pong (Zahar)
+It's code my friend.
